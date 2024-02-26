@@ -1,0 +1,5 @@
+pandas
+numpy
+nltk==3.8.1
+sklearn 
+streamlit
